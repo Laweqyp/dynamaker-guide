@@ -1,4 +1,4 @@
-<h1>dynamaker-guide</h1>
+<h1>dynamaker-guide-zh</h1>
 
 <b>Dynamix Fanmade Chart Tutorial using Dynamaker, for Dynamite</b>   
 Original Guide : https://github.com/TLChicken/dynamaker-guide  
