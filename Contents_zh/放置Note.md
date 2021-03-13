@@ -96,5 +96,5 @@ _（比如： 你按 **S** 太多次导致歌曲速度变成0）_
 然后你可以在弹出的窗口中选择xml谱面文件的保存位置并下载文件。之后只要重新加载Dynamaker，然后重新打开下载的xml文件，就可以稍微松一口气了。
 
 
-[回到主页](https://github.com/TLChicken/dynamaker-guide)
+[回到主页](https://github.com/Laweqyp/dynamaker-guide)
 
