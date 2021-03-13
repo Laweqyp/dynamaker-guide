@@ -1,0 +1,30 @@
+<h1>dynamaker-guide</h1>
+
+<b>Dynamix Fanmade Chart Tutorial using Dynamaker, for Dynamite</b>   
+Original Guide : https://github.com/TLChicken/dynamaker-guide  
+一个由玩家写的简单的Dynamaker的指引教程。   
+Dynamaker是一款Dynamix制谱器，可以制造出Dynamix谱面并在Dynamix或Dynamite中游玩
+
+
+## 目录:
+
+**[开始-基础操作](/Contents_zh/基础操作.md)**
+
+**[快捷键及参数](/Contents_zh/快捷键及参数.md)**
+
+**[放置Note](/Contents_zh/放置Note.md)**
+
+**[特殊操作](/Contents_zh/特殊操作.md)**
+
+**[故障处理](/Contents_zh/放置Note.md/#Troubleshooting)**
+
+
+
+### 其他东西:
+
+**[EDIT模式](/Contents_zh/快捷键及参数.md/#edit_mode)**
+
+**[note周围的数字](/Contents_zh/快捷键及参数.md/#niche)**
+
+**[在note周围的一些细长条](/Contents_zh/Controls%20Nav.md/#random_stuff)**
+
