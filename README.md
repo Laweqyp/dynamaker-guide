@@ -24,7 +24,7 @@ Dynamaker是一款Dynamix制谱器，可以制造出Dynamix谱面并在Dynamix�
 
 **[EDIT模式](/Contents_zh/快捷键及参数.md/#edit_mode)**
 
-**[note周围的数字](/Contents_zh/快捷键及参数.md/#niche)**
+**[note周围的数字](/Contents_zh/%E6%94%BE%E7%BD%AENote.md/#%E5%85%89%E6%A0%87%E5%91%A8%E5%9B%B4%E7%9A%84%E5%8F%82%E6%95%B0)**
 
 **[在note周围的一些细长条](/Contents_zh/快捷键及参数.md/#random_stuff)**
 
